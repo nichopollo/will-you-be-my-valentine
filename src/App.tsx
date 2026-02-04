@@ -21,8 +21,9 @@ export default function Page() {
       "Perfavore fragolinaaa",
       "daii :*(",
       "rimarrò triste senò",
-      "Si adesso sono triste"
+      "Si adesso sono triste",
       "eddaaaiii",
+      "mirko!",
       ":((((",
       "PERPERPERFAVOOOREE?",
       "Estoy muerto",
