@@ -23,7 +23,7 @@ export default function Page() {
       "rimarrò triste senò",
       "Si adesso sono triste",
       "eddaaaiii",
-      "mirko!",
+      "Nugger!",
       ":((((",
       "PERPERPERFAVOOOREE?",
       "Estoy muerto",
