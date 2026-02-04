@@ -37,7 +37,7 @@ export default function Page() {
     <div className="-mt-16 flex h-screen flex-col items-center justify-center">
       {yesPressed ? (
         <>
-          <img src="https://files.fm/u/dweff3ekq7" />
+          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="my-4 text-4xl font-bold">Grazieeee ti amo tanto!! ;))</div>
         </>
       ) : (
